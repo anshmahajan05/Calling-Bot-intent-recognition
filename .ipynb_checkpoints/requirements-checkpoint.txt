@@ -1,0 +1,12 @@
+keras==2.8.0
+tensorflow==2.8.2
+nltk
+requests
+billboard.py
+pygame
+pycricbuzz
+COVID19Py
+googlesearch-python
+flask
+flask_wtf
+pytz
